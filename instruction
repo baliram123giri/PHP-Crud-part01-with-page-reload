@@ -1,0 +1,5 @@
+crud
+c = create (INSERT INTO)
+r= read(SELECT)
+u = update (UPDATE)
+d = delete (DELETE)
